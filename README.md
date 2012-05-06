@@ -1,7 +1,7 @@
 pyplacemaker
 ============
 
-Python wrapper for the Yahoo Placemaker API, based on [python-placemaker](https://github.com/bycoffe/python-placemaker) by [bycoffe](https://github.com/bycoffe).
+Python wrapper for the [Yahoo Placemaker API](http://developer.yahoo.com/geo/placemaker/), based on [python-placemaker](https://github.com/bycoffe/python-placemaker) by [bycoffe](https://github.com/bycoffe).
 
 # Usage
 
