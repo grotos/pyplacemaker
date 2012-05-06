@@ -25,7 +25,8 @@ Python wrapper for the Yahoo Placemaker API, based on [python-placemaker](https:
 Many places:
 
 	p.find_places('I used to live in New York, London. Now I live in Sydney')
-	<Placemaker Place: 'Sydney, New South Wales, AU'>, <Placemaker Place: 'London, England, GB'>, <Placemaker Place: 'New York, NY, US'>
+	<Placemaker Place: 'Sydney, New South Wales, AU'>, 
+	<Placemaker Place: 'London, England, GB'>, <Placemaker Place: 'New York, NY, US'>
 	
 	p.administrative_scope
 	<empty string>
