@@ -40,5 +40,5 @@ Many places:
 	51.5063 -0.12714 Town
 	40.7146 -74.0071 Town
 	
-Notice an administrative_scope is empty, because there is no administrative "container" for New York, London and Sydney.
-geographic_scope is also quite irrelevant.
+Notice the `administrative_scope` is empty, because there is no administrative "container" for New York, London and Sydney.
+`geographic_scope` in this case is also quite irrelevant.
