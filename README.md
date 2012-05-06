@@ -1,4 +1,4 @@
 pyplacemaker
 ============
 
-Python wrapper for the Yahoo Placemaker API
+Simple Python wrapper for the Yahoo Placemaker API
