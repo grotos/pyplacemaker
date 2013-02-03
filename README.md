@@ -1,6 +1,9 @@
 pyplacemaker
 ============
 
+**Update 03. February 2013**: Yahoo [announced](http://developer.yahoo.com/blogs/ydn/posts/2012/09/introducing-boss-geo-–-the-next-chapter-for-boss/) they depreciate Placemaker (it was supposed to happen on 17. November 2012) and change service to BOSS Geo. It is no longer free to use. However, Placemaker continues to work.
+
+
 Python wrapper for the [Yahoo Placemaker API](http://developer.yahoo.com/geo/placemaker/), based on [python-placemaker](https://github.com/bycoffe/python-placemaker) by [bycoffe](https://github.com/bycoffe).
 
 # Usage
